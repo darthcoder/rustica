@@ -1,6 +1,6 @@
 [package]
 name = "rustica"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
 authors = ["Abdul Basit Ahmad <basit.005@gmail.com>"]
 
@@ -8,4 +8,5 @@ authors = ["Abdul Basit Ahmad <basit.005@gmail.com>"]
 
 [dependencies]
 ndarray = "0.15.6"
+num-complex = "0.4.3"
 
